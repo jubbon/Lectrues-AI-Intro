@@ -1,17 +1,19 @@
-@title[Reinforcement Learning]
-### Reinforcement Learning
+@title[RL: Go]
+### Reinforcement Learning для Go
 
  - 2016: AlphaGo
  - 2017: AlphaGo Zero
- - 2018: Alpha Zero
+ - 2017, декабрь: алгоритм Alpha Zero
 
 +++
 @title[RL: AlphaGo]
 ### AlphaGo
 
 @ol
- - Стадия 1: обучение с учителем
- - Стадия 2: обучение с подкреплением
+
+ - Обучение с учителем
+ - Обучение с подкреплением
+
 @olend
 
 +++
