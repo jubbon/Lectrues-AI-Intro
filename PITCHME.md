@@ -8,27 +8,7 @@
 ---
 Слайд 2
 
-
----
-@title[Reinforcement Learning]
-### Reinforcement Learning
-
- - 2016: AlphaGo
- - 2017: AlphaGo Zero
- - 2018: Alpha Zero
-
-+++
-@title[RL: AlphaGo]
-### AlphaGo
-
-+++
-@title[RL: AlphaGo Zero]
-### AlphaGo Zero
-
-+++
-@title[RL: Alpha Zero]
-### Alpha Zero
-
+---?include=./DeepLearning/RL/AlphaZero.md
 
 ---
 @title[Thanks]
