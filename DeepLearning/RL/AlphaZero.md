@@ -1,6 +1,14 @@
 @title[RL: Go]
-### Reinforcement Learning для Go
 
+![AlphaGo Logo](assets/images/AlphaGo/AlphaGo-logo.png)
+
++++
+@title[RL: Go Game]
+
+![Go Game](assets/images/AlphaGo/AlphaGo-game.gif)
+
+
++++
  - 2016: AlphaGo
  - 2017: AlphaGo Zero
  - 2017, декабрь: алгоритм Alpha Zero
@@ -27,6 +35,5 @@
 @title[RL: Alpha Zero]
 ### Alpha Zero
 
- - Декабрь 2017 года
- - Обобщенная версия AlphaGo Zero (шахматы, го, сеги)
+ - Обобщённая версия AlphaGo Zero (шахматы, го, сеги)
  - Обыграла лучшие алгоритмы
