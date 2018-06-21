@@ -8,6 +8,7 @@
 ---
 Слайд 2
 
+---?include=./DeepLearning/RL/Intro.md
 ---?include=./DeepLearning/RL/AlphaZero.md
 
 ---
