@@ -5,9 +5,7 @@
 
 сооснователь и генеральный директор Ситиликс
 
----
-Слайд 2
-
+---?include=./Profession/Intro.md
 ---?include=./DeepLearning/RL/Intro.md
 ---?include=./DeepLearning/RL/AlphaZero.md
 
