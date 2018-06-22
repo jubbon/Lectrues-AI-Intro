@@ -1,4 +1,5 @@
 @title[NN: Simple]
+#### Artificial Neural Networks
 ![Neural Network Simple](assets/images/NeuralNetwork/NeuralNetwork-Simple.png)
 
 +++
@@ -7,6 +8,7 @@
 
 +++
 @title[NN: Deep]
+#### Deep Artificial Neural Networks
 ![Neural Network Deep](assets/images/NeuralNetwork/NeuralNetwork-Deep.png)
 
 +++
