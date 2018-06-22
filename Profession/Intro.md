@@ -2,7 +2,7 @@
 @title[DataScience]
 ![DataScience](assets/images/Profession/DataScience.jpg)
 
-+++?image=assets/images/Profession/Profession-DS-DE.png
++++?image=assets/images/Profession/Profession-DS-DE.png&size=auto 90%
 @title[Profession: DS-DE]
 
 +++?image=assets/images/Profession/Profession-domains.png
