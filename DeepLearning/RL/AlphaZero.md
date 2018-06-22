@@ -7,33 +7,17 @@
 
 ![Go Game](assets/images/AlphaGo/AlphaGo-game.gif)
 
-
-+++
- - 2016: AlphaGo
- - 2017: AlphaGo Zero
- - 2017, декабрь: алгоритм Alpha Zero
-
 +++
 @title[RL: AlphaGo]
 ### AlphaGo
-
-@ol
-
- - Обучение с учителем
- - Обучение с подкреплением
-
-@olend
+![AlphaGo: Architecture](assets/images/AlphaGo/AlphaGo-architecture.jpg)
 
 +++
 @title[RL: AlphaGo Zero]
 ### AlphaGo Zero
-
-- Научилась играть в Go полностью с нуля (без использования стадии обучения с учителем)
-- Обыграла AlphaGo
+![AlphaGo: Architecture](assets/images/AlphaGo/AlphaGo-Zero-01.jpg)
 
 +++
 @title[RL: Alpha Zero]
 ### Alpha Zero
-
- - Обобщённая версия AlphaGo Zero (шахматы, го, сеги)
- - Обыграла лучшие алгоритмы
+![Go Game](assets/images/AlphaGo/AlphaZero.png)
