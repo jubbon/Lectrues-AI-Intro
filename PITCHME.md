@@ -8,8 +8,8 @@
  - Data Scientists and Data Engineers
  - Intro to Neural Networks and Deep Learning
  - Some Deep Neural Networks applications
-    - GAN
-    - RL
+    - Generative Adversarial Networks
+    - Reinforcement Learning
 
 ---?include=./AI/Intro.md
 
