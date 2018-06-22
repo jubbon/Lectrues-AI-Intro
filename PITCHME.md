@@ -7,7 +7,9 @@
  - What is Machine Learning and Data Science
  - Data Scientists and Data Engineers
  - Intro to Neural Networks and Deep Learning
- - Some Deep Neural Networks applications (GAN and RL)
+ - Some Deep Neural Networks applications
+    - GAN
+    - RL
 
 ---?include=./AI/Intro.md
 
