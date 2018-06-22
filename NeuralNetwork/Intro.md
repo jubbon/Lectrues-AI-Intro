@@ -13,7 +13,7 @@
 
 +++
 @title[NN: Deep Example]
-#### Deep ANN example
+#### Deep Neural Network example
 ![Neural Network Deep Example](assets/images/NeuralNetwork/NeuralNetwork-Deep-example.png)
 
 +++
