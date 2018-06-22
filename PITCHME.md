@@ -1,6 +1,13 @@
 @title[Introduction]
 ### Introduction to Machine Learning and Data Science
 
+---
+@title[Roadmap]
+#### Roadmap
+ - What is Machine Learning and Data Science
+ - Data Scientists and Data Engineers
+ - Intro to Neural Networks and Deep Learning
+ - Some Deep Neural Networks applications (GAN and RL)
 
 ---?include=./AI/Intro.md
 
