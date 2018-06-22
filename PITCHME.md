@@ -1,5 +1,5 @@
 @title[Introduction]
-### Введение в машинное обучение и науку о данных
+### Introduction to Machine Learning and Data Science
 
 Куликов Дмитрий
 
