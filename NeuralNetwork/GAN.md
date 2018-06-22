@@ -4,8 +4,10 @@
 
 +++
 @title[GAN: Application 1]
-![GAN Application 1](assets/images/NeuralNetwork/GAN/GAN-Application-01.png)
+#### GANs Applications
+![GANs Applications](assets/images/NeuralNetwork/GAN/GAN-Application-01.png)
 
 +++
 @title[GAN: Application 2]
-![GAN Application 2](assets/images/NeuralNetwork/GAN/GAN-Application-02.png)
+#### Yet Another GANs Applications
+![GANs Application](assets/images/NeuralNetwork/GAN/GAN-Application-02.png)
