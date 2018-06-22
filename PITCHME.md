@@ -10,6 +10,7 @@
 
 ---?include=./Profession/Intro.md
 ---?include=./NeuralNetwork/Intro.md
+---?include=./NeuralNetwork/GAN.md
 ---?include=./DeepLearning/RL/Intro.md
 ---?include=./DeepLearning/RL/AlphaZero.md
 
