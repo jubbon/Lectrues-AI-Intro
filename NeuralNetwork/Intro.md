@@ -21,4 +21,5 @@
 
 +++
 @title[NN: Deep CV]
+#### How a Deep Neural Network Sees
 ![Neural Network Deep CV](assets/images/NeuralNetwork/NeuralNetwork-Deep-CV.png)
