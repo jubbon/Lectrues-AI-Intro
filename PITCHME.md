@@ -12,7 +12,3 @@
 ---?include=./NeuralNetwork/GAN.md
 ---?include=./DeepLearning/RL/Intro.md
 ---?include=./DeepLearning/RL/AlphaZero.md
-
----
-@title[Thanks]
-## Спасибо за внимание
