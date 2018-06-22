@@ -1,10 +1,6 @@
 @title[Introduction]
 ### Introduction to Machine Learning and Data Science
 
-Куликов Дмитрий
-
-сооснователь и генеральный директор Ситиликс
-
 ---?image=./assets/images/Gartner/Gartner-2017.png
 @title[Gartner 2017]
 
