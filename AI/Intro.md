@@ -2,9 +2,11 @@
 ![AI](assets/images/AI/AI-Tree.png)
 
 +++
-@title[AI: Domains]
-![AI domains](assets/images/AI/AI-Domains.png)
+@title[AI: Applications]
+#### Artificial Intelligence Applications
+![AI Applications](assets/images/AI/AI-Domains.png)
 
 +++
 @title[AI: ML]
-![AI Machine Learning](assets/images/AI/AI-ML.png)
+#### Machine Learning Domains
+![ML Domains](assets/images/AI/AI-ML.png)
