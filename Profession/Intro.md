@@ -5,9 +5,6 @@
 +++?image=assets/images/Profession/Profession-DS-DE.png&size=auto 90%
 @title[Profession: DS-DE]
 
-+++?image=assets/images/Profession/Profession-domains.png
-@title[Profession: Domains]
-
 +++
 @title[Profession: DS skills]
 ![DS skills](assets/images/Profession/Profession-DS-skills.jpg)
