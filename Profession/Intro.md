@@ -1,6 +1,9 @@
-?image=assets/images/Profession/Profession-DS-DE.png
 @title[Profession: Intro]
-<!-- ![DS Intro](assets/images/Profession/Profession-DS-DE.png) -->
+@title[DataScience]
+![DataScience](assets/images/Profession/DataScience.jpg)
+
++++?image=assets/images/Profession/Profession-DS-DE.png
+@title[Profession: DS-DE]
 
 +++?image=assets/images/Profession/Profession-domains.png
 @title[Profession: Domains]
